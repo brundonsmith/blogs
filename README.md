@@ -1,4 +1,6 @@
 
+Hosted on GitHub Pages at: [https://brundonsmith.github.io/blogs/](https://brundonsmith.github.io/blogs/)
+
 # What is this?
 
 I was inspired by a [comment](https://news.ycombinator.com/item?id=23206075) 
