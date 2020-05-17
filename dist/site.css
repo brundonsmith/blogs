@@ -1,0 +1,32 @@
+
+html {
+    font-family: sans-serif;
+}
+
+body {
+    padding: 1rem 2rem;
+}
+
+#search {
+    font-size: 1rem;
+}
+
+.listing {
+    padding: 1rem 0;
+}
+
+.listing:not(:last-of-type) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.no-description {
+    opacity: 0.5;
+}
+
+.listing > h2 {
+    margin:0;
+}
+
+.listing img {
+    vertical-align: bottom;
+}
