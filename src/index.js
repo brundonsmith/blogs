@@ -33,10 +33,10 @@ const generateSite = async () => {
     const renderIndex = require('./views/index.html');
     const renderBlog = require('./views/blog.html');
 
-    fs.writeFileSync(`dist/index.html`, renderIndex(combinedBlogData, allTags))
+    fs.writeFileSync(`docs/index.html`, renderIndex(combinedBlogData, allTags))
     
     for(let i = 0; i < combinedBlogData.length; i++) {
-        fs.writeFileSync(`dist/blog/${i}.html`, renderBlog(combinedBlogData[i], i))
+        fs.writeFileSync(`docs/blog/${i}.html`, renderBlog(combinedBlogData[i], i))
     }
 }
 

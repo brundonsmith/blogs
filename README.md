@@ -33,7 +33,8 @@ bug reports.
 This site is statically-generated so it can be hosted on GitHub Pages. The blog
 data lives in `src/blogs.json` (this is probably all you care about). 
 **Before committing, please `npm run build` to rebuild the HTML files.** These
-will end up under `dist/`, which is the public-facing static site.
+will end up under `docs/`, which is the public-facing static site. This is named
+"docs" as a hack to allow GitHub Pages to use it as the website root.
 
 # Future plans
 
