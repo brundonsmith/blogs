@@ -1,11 +1,11 @@
 [
-    { "url": "https://www.brandonsmith.ninja", "tags": [ "programming" ] },
     { "url": "https://rachelbythebay.com",     "tags": [ "programming" ] },
     { "url": "http://worrydream.com",          "tags": [ "programming" ] },
     { "url": "https://blog.jessfraz.com",      "tags": [ "programming" ] },
     { "url": "https://jcs.org",                "tags": [ "programming" ] },
     { "url": "https://jameshfisher.com",       "tags": [ "programming" ] },
     { "url": "https://fasterthanli.me",        "tags": [ "programming" ] },
+    { "url": "https://www.brandonsmith.ninja", "tags": [ "programming" ] },
     { "url": "https://natashakindred.com",     "tags": [ ] },
     { "url": "https://a16z.com",               "tags": [ ] },
     { "url": "https://andrewchen.co",          "tags": [ ] },

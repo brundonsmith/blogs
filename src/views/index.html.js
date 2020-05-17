@@ -12,8 +12,10 @@ module.exports = (blogData, allTags) =>
 
         <h1>Find blogs written by real humans</h1>
 
-        <div>
+        <div class="controls">
             <input id="search" type="search" placeholder="Search...">
+
+            <br>
 
             Tags: 
 

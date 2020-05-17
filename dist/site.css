@@ -7,16 +7,19 @@ body {
     padding: 1rem 2rem;
 }
 
+.controls {
+    margin-bottom:2rem;
+}
+
 #search {
     font-size: 1rem;
+    border: 1px solid rgba(0,0,0,0.2);
+    margin-bottom: 0.25rem;
 }
 
 .listing {
     padding: 1rem 0;
-}
-
-.listing:not(:last-of-type) {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .no-description {
